@@ -1,0 +1,29 @@
+query {
+  org(id: "2") {
+    id
+    name
+  }
+}
+
+
+mutation {
+  createUser(firstName: "Sandhya", age: 34) {
+    id
+    firstName
+    age
+  }
+}
+
+mutation {
+  modifyUser(id : "r1x9Y8_", firstName: "Deepak", age: 40) {
+    id
+    firstName
+    age
+  }
+}
+
+mutation {
+  deleteUser(id: "4pnaThA") {
+    id
+  }
+}

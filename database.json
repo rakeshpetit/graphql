@@ -1,13 +1,45 @@
 {
   "users": [
-    { "id": "7", "firstName": "Rakesh", "age": 30, "orgId": "1" },
-    { "id": "9", "firstName": "Aiswarya", "age": 28, "orgId": "2" },
-    { "id": "11", "firstName": "Arun", "age": 67, "orgId": "2" },
-    { "id": "14", "firstName": "Hema", "age": 60, "orgId": "3" }
+    {
+      "id": "7",
+      "firstName": "Rakesh",
+      "age": 30,
+      "orgId": "1"
+    },
+    {
+      "id": "9",
+      "firstName": "Aiswarya",
+      "age": 28,
+      "orgId": "2"
+    },
+    {
+      "id": "11",
+      "firstName": "Arun",
+      "age": 67,
+      "orgId": "2"
+    },
+    {
+      "id": "14",
+      "firstName": "Hema",
+      "age": 60,
+      "orgId": "3"
+    }
   ],
   "orgs": [
-    { "id": "1", "name": "Danske Bank", "position": "Senior Software Engineer" },
-    { "id": "2", "name": "B208", "position": "Home maker"},
-    { "id": "3", "name": "Lotus", "position": "Senior Accountant"}
+    {
+      "id": "1",
+      "name": "Danske Bank",
+      "position": "Senior Software Engineer"
+    },
+    {
+      "id": "2",
+      "name": "B208",
+      "position": "Home maker"
+    },
+    {
+      "id": "3",
+      "name": "Lotus",
+      "position": "Senior Accountant"
+    }
   ]
 }
